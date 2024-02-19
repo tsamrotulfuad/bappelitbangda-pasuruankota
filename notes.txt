@@ -1,0 +1,2 @@
+// Masuk container
+docker container exec -it bappelitbangda /bin/bash
